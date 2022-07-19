@@ -1,0 +1,21 @@
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.exe
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.deps.json
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.runtimeconfig.json
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.runtimeconfig.dev.json
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.dll
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\bin\Debug\netcoreapp3.1\Senior Project Web App.pdb
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.csproj.AssemblyReference.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.AssemblyInfoInputs.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.AssemblyInfo.cs
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.csproj.CoreCompileInputs.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\staticwebassets\Senior Project Web App.StaticWebAssets.Manifest.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\staticwebassets\Senior Project Web App.StaticWebAssets.xml
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\scopedcss\bundle\Senior Project Web App.styles.css
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.RazorTargetAssemblyInfo.cache
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.dll
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.pdb
+C:\Users\anush\source\repos\Senior Project Web App\Senior Project Web App\obj\Debug\netcoreapp3.1\Senior Project Web App.genruntimeconfig.cache
